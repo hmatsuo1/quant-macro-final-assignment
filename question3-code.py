@@ -4,9 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import minimize_scalar
 
-import numpy as np
-import matplotlib.pyplot as plt
-
 # parameters
 gamma = 2.0
 beta = 0.985**20
